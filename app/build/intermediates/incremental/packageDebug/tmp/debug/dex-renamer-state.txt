@@ -1,0 +1,4 @@
+#Sun Jun 20 19:40:27 AFT 2021
+base.0=D\:\\Projects\\Android Native\\Weather App University\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
